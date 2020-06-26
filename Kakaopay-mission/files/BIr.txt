@@ -1,0 +1,1 @@
+{"token":"BIr","sendUserId":"jang","sendRoomId":"jang","money":9543211,"peopleCount":11,"distributeMoney":"[1113374,1590535,159053,1431481,477160,1590535,477160,159053,1590535]","sendDate":"20200627 00:34:57","receivedMember":"[qqq=159053,www=795267]","completedMoney":954320}

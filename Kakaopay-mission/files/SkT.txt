@@ -1,0 +1,1 @@
+{"token":"SkT","sendUserId":"jang","sendRoomId":"jang","money":9543211,"peopleCount":11,"distributeMoney":"[1752834, 1168556, 584278, 1752834, 1947594, 194759, 389518, 779037, 194759, 194759, 584278]","sendDate":"20200627 00:31:18","receivedMember":"[]","completedMoney":0}
