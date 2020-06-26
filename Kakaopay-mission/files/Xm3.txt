@@ -1,0 +1,1 @@
+{"token":"Xm3","sendUserId":"qwer","sendRoomId":"qwer","money":6784522,"peopleCount":5,"distributeMoney":"[]","sendDate":"20200627 03:27:44","receivedMember":"[qqq=935796,www=233949,eee=2339490,rrr=1169745,ttt=2105541]","completedMoney":6784521}

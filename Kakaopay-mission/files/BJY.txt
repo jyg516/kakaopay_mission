@@ -1,0 +1,1 @@
+{"token":"BJY","sendUserId":"qwer","sendRoomId":"qwer","money":6784522,"peopleCount":17,"distributeMoney":"[983264, 196652, 196652, 393305, 294979, 98326, 786611, 294979, 196652, 294979, 393305, 294979, 688284, 491632, 393305, 688284, 98326]","sendDate":"20200627 02:51:38","receivedMember":"[]","completedMoney":0}

@@ -1,0 +1,1 @@
+{"token":"sM5","sendUserId":"qwer","sendRoomId":"qwer","money":6784522,"peopleCount":17,"distributeMoney":"[477783,191113,764453,95556,955566,668896,955566,95556,95556]","sendDate":"20200627 03:23:18","receivedMember":"[qwe=573339,qqq=668896,www=191113,eee=95556,rrr=95556,aaa=668896,sss=95556,ddd=95556]","completedMoney":2484468}
