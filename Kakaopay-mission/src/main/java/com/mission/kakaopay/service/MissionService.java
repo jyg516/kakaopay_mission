@@ -134,6 +134,10 @@ public class MissionService {
 			}
 			
 			String receivedMoney = obj.get("distributeMoney").getAsString();
+			if("[]".equals(receivedMoney))
+			{
+				return "모든 뿌리기를 받아갔습니다.";
+			}
 			List<String> updateList = new ArrayList<>(); 
 			updateList.addAll(Arrays.asList(receivedMoney.trim().replace("[", "").replace("]", "").split(",")));
 			returnValue = updateList.get(0);

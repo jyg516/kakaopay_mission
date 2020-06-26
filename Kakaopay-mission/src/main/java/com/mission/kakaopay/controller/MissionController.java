@@ -57,6 +57,16 @@ public class MissionController {
 	public String receiveMoney(@RequestHeader(value="X-USER-ID", required = false) String userId, @RequestHeader(value="X-ROOM-ID", required = false) String roomId,
 			@RequestParam(value="token", required = false) String token) {
 		
+		if(userId == null || "".equals(userId))
+		{
+			return "HTTP HEADER에 X-USER-ID를 세팅해주세요.";
+		}
+		
+		if(roomId == null || "".equals(roomId))
+		{
+			return "HTTP HEADER에 X-ROOM-ID를 세팅해주세요.";
+		}
+		
 		String returnMoney = service.receiveMoney(userId, roomId, token);
 		
 		return returnMoney;
